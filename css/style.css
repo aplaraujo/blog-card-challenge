@@ -40,7 +40,7 @@ body {
 }
 
 .card__image {
-  background-image: url("/img/spacejoy-YqFz7UMm8qE-unsplash.jpg");
+  background-image: url("https://raw.githubusercontent.com/aplaraujo/blog-card-challenge/refs/heads/main/img/spacejoy-YqFz7UMm8qE-unsplash.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
